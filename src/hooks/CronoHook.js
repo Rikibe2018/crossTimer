@@ -11,6 +11,7 @@ const SET_CRONOMETRO = {
     lapso: false,
 }
 
+
 export const useCrono = () => {
 
     const [crono, setCrono] = useState({
