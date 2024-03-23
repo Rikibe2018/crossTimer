@@ -11,6 +11,8 @@ const SET_CRONOMETRO = {
     lapso: false,
 }
 
+//sdcsdc dsc
+var mimi=0;
 
 export const useCrono = () => {
 
