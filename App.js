@@ -5,7 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import DrawerNavigation from './src/navigation/DrawerNavigation';
 
-
+///asassa
 
 const colors = ["#F7DC6F", "#A2D9CE", "#D7BDE2"];
 
